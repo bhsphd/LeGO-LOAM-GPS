@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "vector": "cpp",
+        "iostream": "cpp",
+        "deque": "cpp",
+        "cfloat": "cpp",
+        "core": "cpp",
+        "numericaldiff": "cpp"
+    }
+}
